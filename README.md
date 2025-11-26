@@ -4,7 +4,7 @@ Blink Chat App
 A Lightning Fast, Secure, and Cross-Platform Real-Time Messaging Application
 Blink is a modern, full-stack chat application engineered for speed and privacy. Leveraging robust real-time technologies, it provides a seamless, zero-delay messaging experience with a focus on end-to-end encryption and user security.
 
-✨ Features
+✨ Features:
 
 
 Real-time Communication: Utilizes WebSockets (likely Socket.IO) for instant, zero-delay message delivery and updates.
@@ -19,13 +19,13 @@ Media Sharing: Supports sharing of images and videos directly within the chat in
 
 Profile Customization: Users can update their name, email, and profile picture.
 
-🔗 Links
+🔗 Links:
 Category	URL
 Live Demo (Render)	https://blink-chat-api.onrender.com
 GitHub Repository	https://github.com/akash4550/Blink-Chat-App
 
-🛠️ Technology Stack
-Blink is a Full-Stack application, most likely built on the MERN (MongoDB, Express, React, Node.js) or a similar JavaScript-based stack to optimize for real-time performance.
+🛠️ Technology Stack:
+Blink is a Full-Stack application, built on the MERN (MongoDB, Express, React, Node.js) to optimize for real-time performance.
 
 Frontend	React, HTML5/CSS3	Single Page Application (SPA) for the dynamic UI.
 
