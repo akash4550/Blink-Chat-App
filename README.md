@@ -43,18 +43,12 @@
 
 ## 📸 Screenshots
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>💬 Chat Interface</b></td>
-    <td align="center"><b>👥 Contact List</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/177309090/497471902-cdc85643-a4ac-43be-a817-f33a03efa580.png" width="400" alt="Chat Interface"/></td>
-    <td><img src="https://private-user-images.githubusercontent.com/177309090/497471922-703f29da-25fa-4bde-a82f-f4a621415590.png" width="400" alt="Contact List"/></td>
-  </tr>
-</table>
-</div>
+
+<img width="1905" height="947" alt="Screenshot 2025-10-04 203231" src="https://github.com/user-attachments/assets/cdc85643-a4ac-43be-a817-f33a03efa580" />
+
+
+<img width="1911" height="981" alt="Screenshot 2025-10-04 203313" src="https://github.com/user-attachments/assets/703f29da-25fa-4bde-a82f-f4a621415590" />
+
 
 ---
 
@@ -244,15 +238,6 @@ Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more infor
 
 <sub>Built with ❤️ and JavaScript — Blink Chat App © 2025</sub>
 </div>
-
-
-
-<img width="1905" height="947" alt="Screenshot 2025-10-04 203231" src="https://github.com/user-attachments/assets/cdc85643-a4ac-43be-a817-f33a03efa580" />
-
-
-<img width="1911" height="981" alt="Screenshot 2025-10-04 203313" src="https://github.com/user-attachments/assets/703f29da-25fa-4bde-a82f-f4a621415590" />
-
-
 
 
 
